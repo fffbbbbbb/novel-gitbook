@@ -6,4 +6,4 @@
 * expression 分段依据的正则表达式 默认为`第.*章 `。
 
 ### docker
-build dockerfile后，使用docker将小说文件挂载进/build，启动即可。
+build dockerfile后，使用docker将小说文件挂载到/gitbook-build，run就成了
